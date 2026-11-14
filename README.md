@@ -1,4 +1,5 @@
 # DSH-Go Huawei DroiTong Patch Build
+鸿蒙 卓易通
 
 > Unofficial build of DSH Go, based on upstream v1.0.16.
 > Fixes local engine startup failures under HarmonyOS inside DroiTong container, including issues with PRoot initialization, `getcwd` anomalies and `clone3` thread creation.
