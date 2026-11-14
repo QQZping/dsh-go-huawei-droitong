@@ -11,7 +11,7 @@
 - `getcwd` 路径获取异常
 - `clone3` 线程创建报错
 
-📦 **下载**：前往 [Releases](../../releases) 获取最新构建包。
+📦 **下载**：前往 [v.2 Release](https://github.com/QQZping/dsh-go-huawei-droitong/releases/tag/v.2) 获取最新构建包。
 
 ---
 
@@ -22,4 +22,4 @@ It targets the HarmonyOS + DroiTong container environment and resolves local eng
 - `getcwd` abnormal behavior
 - `clone3` thread creation errors
 
-📦 **Download**: Get the latest artifacts from [Releases](../../releases).
+📦 **Download**: Get the latest artifacts from [v.2 Release](https://github.com/QQZping/dsh-go-huawei-droitong/releases/tag/v.2)
